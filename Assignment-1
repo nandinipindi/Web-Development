@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <title>Google Map</title>
+                <center>Dwaraka Tirumala</center>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15265.468667055591!2d81.24508723391573!3d16.956480516741525!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a365b7de3e2f139%3A0x3110b5a712dc8272!2sDwaraka%20Tirumala%2C%20Andhra%20Pradesh%20534426!5e0!3m2!1sen!2sin!4v1735984426964!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"
+                <p>"Dwaraka" who located the self-manifested idol of Lord "Sri Venkateswara" after severe penance in a Valmikama (ant hill). The devotees call Sri Venkateswara as Kaliyuga Vaikunta Vasa. This place is also called “Chinna Tirupatia”.</p>
+                <img src="download.jpg" align="center">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/lGKGDxwvrEQ?si=YrjnzXiRohpcs_hG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </body>
+    </head>
+</html>
