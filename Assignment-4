@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Student Feedback</title>
+    </head>
+    <body>
+        <center><h3>Feedback Form</h3></center>
+        <form action="akshitha.html" method="get" >
+            <!-- Name -->
+            <label style="display: inline-block;width: 95px" for="name">Your Name:</label>
+            <input type="text" id="name" name="name" placeholder="Enter your name" value="Nandhu" readonly><br>
+            <p>
+            <!-- Email -->
+            <label style="display: inline-block;width: 95px" for="email">Your Email:</label>
+            <input type="email" id="email" name="email" placeholder="Enter your email" required>
+            </p>
+            <label for="subject">Subject Name:</label>
+            <input type="text" placeholder="Enter subject" required><br>
+            <!-- Rating --><br>
+            <label>Select option</label><br>
+                <input type="radio"name="x">Excellent<br>
+                <input type="radio"name="x">Good<br>
+                <input type="radio"name="x">Average<br>
+                <input type="radio"name="x">Bad<br>
+            
+            
+            <!-- Comments -->
+            <label for="comments">Your Feedback:</label>
+            <textarea id="comments" name="comments" rows="4" placeholder="Write your feedback here..." required></textarea>
+            <br>
+            <!-- Submit Button --><br>
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </body>
+</html>
