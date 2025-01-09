@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Registration Form</title>
+    
+    
+         <style>
+            body{                                                                                                                                                                                   
+                background-color: aqua; 
+                background-image: url('bird-8788491_1280.webp');
+            }
+            submit-button {
+            margin-top: 20px;
+            width: 100%;
+            padding: 10px;
+            
+            }
+        </style> 
+        </head>
+        <body>
+        <center><b><h2>Registration Form</h2> </b></center>
+        <form action="images.png" method="get" target="new">
+        <label style="display: inline-block;width: 105px" for="Your Name">Enter Name:</label>
+        <input type="text" id="name" placeholder="Enter Your Name"><br><p>
+        <label style="display: inline-block;width: 105px" for="Emialid">Enter Email Id:</label>
+        <input type="text" id="name" placeholder="Emialid"><br></p><p>
+        <label style="display: inline-block;width: 105px" for="PassWord">Enter Password:</label>
+        <input type="password" id="name" placeholder="Password"><br></p>
+        <input type="button" value="submit-button">
+        
+    </form>
+    </body>
+</html>
