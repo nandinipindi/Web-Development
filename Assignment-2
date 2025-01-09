@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Probability and statistics</title>
+    </head>
+    <body>
+        <center><h4>Baye's Theorem</h4></center>
+        <br><hr>
+        <p>Bayes' Theorem is a fundamental concept in probability and statistics that provides a way to update probabilities for a hypothesis based on new evidence. It is expressed mathematically as:<br><center>P(A/B)=  P(B/A)⋅P(A)/P(B)</center>
+        </p>
+        <p><h3><u>Components:</u></h3></p><br>
+        <ul>
+            <li>P(A/B): The posterior probability of A given B (i.e., the updated probability of A after considering evidence B).</li>
+            <li>P(B/A): The likelihood of observing B given that A is true.</li>
+            <li>P(A): The prior probability of A (i.e., the initial probability of A before observing evidence B).</li>
+            <li>P(B): The marginal probability of B, which serves as a normalizing constant. It can be calculated as:</li>
+        </ul>
+        <br><center>P(B)=P(B/A)⋅P(A)+P(B/¬A)⋅P(¬A)</center>
+        <h3><u>Applications</u></h3>
+        <ol>
+            <li>Medical Diagnosis: Estimating the probability of a disease given test results.</li>
+            <li>Spam Filtering: Determining the likelihood of an email being spam based on certain keywords.</li>
+            <li>Machine Learning: Used in Bayesian inference and algorithms like Naive Bayes classifiers.</li>
+            <li>Decision Making: Updating probabilities as new evidence is gathered in areas like finance, law, and weather forecasting.</li>
+        </ol>
+        <center><img src="Bayes theorem.jpg" alt="Baye's theorem"style="width:400px;height:300px;"></center>
+    </body>
+</html>
